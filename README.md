@@ -1,2 +1,2 @@
-# Stellar_spectral_analysis
+# Stellar_spectral_analysis (revised)
 Cameryn Wheeler
